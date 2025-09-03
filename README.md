@@ -6,7 +6,7 @@ This repo contains a Google Colab notebook that demonstrates a simple app for Op
 
 ## 🔗 Open in Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/USERNAME/colab-app-demo/blob/main/notebook.ipynb
+https://colab.research.google.com/github/fran/colab-app-demo/blob/main/notebook.ipynb
 )
 
 ## 📦 Requirements
