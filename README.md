@@ -6,7 +6,7 @@ This repo contains a Google Colab notebook that demonstrates a simple app for Op
 
 ## 🔗 Open in Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/frasfras/eco-gpt/blob/main/notebook.ipynb
+https://colab.research.google.com/github/frasfras/eco-gpt/blob/main/eco_gpt_notebook.ipynb
 )
 
 ## 📦 Requirements
