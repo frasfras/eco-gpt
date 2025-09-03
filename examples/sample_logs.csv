@@ -1,0 +1,4 @@
+timestamp,sensor_id,event_type,payload,metadata
+2024-07-19T06:14:00,cam_trap_07,image,Jaguar observed near stream #3,"{""lat"": -3.456, ""lon"": -62.78}"
+2024-07-19T06:15:00,mic_02,audio,Cicada chorus intensity: high,"{""temp_c"": 27.3}"
+2024-07-19T06:20:00,env_01,temperature,Air temperature 28°C,"{""humidity"": 71}"
