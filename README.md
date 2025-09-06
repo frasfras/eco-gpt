@@ -8,9 +8,9 @@ Eco-GPT is a Streamlit app that answers scientific/ecological questions using:<b
 CSV logs (e.g. sensor & wildlife observations)
 Scientific PDFs (research notes, papers) <br/>
 
-# model backends used:
-
-   -Synthetic API (gpt-oss-120b)
+ model backends used:
+    
+  # -Synthetic API (gpt-oss-120b) 
 
 
 It supports semantic retrieval with FAISS and cached embeddings so PDFs don’t re-index every run
