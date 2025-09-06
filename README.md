@@ -26,8 +26,9 @@ Setup & Installation
 ## 📦 Requirements
    git clone https://github.com/frasfras/eco-gpt.git
    cd eco-gpt
-   
-   upload eco-gpt1-notebook to Google Collab
+
+   Click Open in Collab button above  
+   Or upload eco-gpt1-notebook to Google Collab
    
 2. ##  Environment variables
    import os
