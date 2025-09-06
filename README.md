@@ -39,7 +39,7 @@ Setup & Installation
    #api_key=os.environ.get("SYNTHETIC_API_KEY"),
      api_key="SYNTHETIC_API_KEY",
 
-    setup ngrok
+3. setup ngrok
     Set your ngrok auth token (get free token from https://ngrok.com)
 
    NGROK_AUTH_TOKEN = "NGROK_AUTH_TOKEN"
