@@ -29,14 +29,13 @@ Setup & Installation
    
    upload eco-gpt1-notebook to Google Collab
    
-   Environment variables
+2.   Environment variables
    import os
    os.environ["SYNTHETIC_API_KEY"] = "your_api_key_here"
    # --------------------------
    Setup API client synthetic.new
-   #
+   ##api_key= ("SYNTHETIC_API_KEY"),
   client = openai.OpenAI(
-   #api_key=os.environ.get("SYNTHETIC_API_KEY"),
      api_key="SYNTHETIC_API_KEY",
 
 3. setup ngrok
@@ -48,7 +47,7 @@ Setup & Installation
    Run in Collab notebook  run all Cells. and Cell #5 "Run in Google Colab with ngrok".
    Click the printed URL to access the app.
 ##
-   #Testing Instructions
+   ##Testing Instructions
   Upload data
 
   Upload a CSV in examples download (example: sample_logs.csv): 
