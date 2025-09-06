@@ -33,14 +33,14 @@ Setup & Installation
    import os
    os.environ["SYNTHETIC_API_KEY"] = "your_api_key_here"
    # --------------------------
-  # Setup API client
+   Setup API client
  
   client = openai.OpenAI(
    #api_key=os.environ.get("SYNTHETIC_API_KEY"),
      api_key="SYNTHETIC_API_KEY",
 
-   # setup ngrok
-   # Set your ngrok auth token (get free token from https://ngrok.com)
+    setup ngrok
+    Set your ngrok auth token (get free token from https://ngrok.com)
 
    NGROK_AUTH_TOKEN = "NGROK_AUTH_TOKEN"
    
