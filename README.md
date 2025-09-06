@@ -34,7 +34,7 @@ Setup & Installation
    os.environ["SYNTHETIC_API_KEY"] = "your_api_key_here"
    # --------------------------
    Setup API client
- 
+   #
   client = openai.OpenAI(
    #api_key=os.environ.get("SYNTHETIC_API_KEY"),
      api_key="SYNTHETIC_API_KEY",
