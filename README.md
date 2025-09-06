@@ -24,7 +24,7 @@ https://colab.research.google.com/github/frasfras/eco-gpt/blob/main/eco_gpt1_not
 Setup & Installation
 1. Clone & install dependencies
 ## 📦 Requirements
-   git clone https://github.com/yourname/eco-gpt.git
+   git clone https://github.com/frasfras/eco-gpt.git
    cd eco-gpt
    
    upload eco-gpt1-notebook to Google Collab
@@ -51,8 +51,9 @@ Setup & Installation
    #Testing Instructions
 Upload data
 
-Upload a CSV in examples download (example: sample_logs.csv):
-(Optional) Upload a scientific PDF with field notes or research. sample in examples folder
+Upload a CSV in examples download (example: sample_logs.csv): 
+  eco-gpt/examples
+-(Optional) Upload a scientific PDF with field notes or research. sample in examples folder
 
  Ask questions
 
@@ -70,4 +71,4 @@ A jaguar was observed near stream #3 at 06:14:00 by cam_trap_01.
 
 Install dependencies if running locally:
 ```bash
-pip install -r requirements.txt
+#pip install -r requirements.txt
