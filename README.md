@@ -3,12 +3,12 @@
 # Eco gpt App Demo 🚀
 
 This repo contains a Google Colab notebook that demonstrates a simple app for 🌿 Eco‑GPT Open‑Source Conservation Assistant .
-Eco-GPT is a Streamlit app that answers scientific/ecological questions using:
+Eco-GPT is a Streamlit app that answers scientific/ecological questions using:<br/>
 
 CSV logs (e.g. sensor & wildlife observations)
-Scientific PDFs (research notes, papers)
+Scientific PDFs (research notes, papers) <br/>
 
-model backends:
+# model backends used:
 
    -Synthetic API (gpt-oss-120b)
 
@@ -70,4 +70,3 @@ A jaguar was observed near stream #3 at 06:14:00 by cam_trap_01.
 
 Install dependencies if running locally:
 ```bash
-#pip install -r requirements.txt
