@@ -43,8 +43,8 @@ Setup & Installation
 
    NGROK_AUTH_TOKEN = "NGROK_AUTH_TOKEN"
    
-4. Run in Google Colab with ngrok
-   Run in Collab notebook  run all Cells. and Cell #5 "Run in Google Colab with ngrok".
+4. ## Run in Google Colab with ngrok <br/>
+   Run in Collab notebook  run all Cells. and Cell #5 "Run in Google Colab with ngrok". 
    Click the printed URL to access the app.
 ##
 5. ## Testing Instructions
