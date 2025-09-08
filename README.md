@@ -33,7 +33,6 @@ Setup & Installation
 2. ##  Environment variables
    import os
    
-   # --------------------------
    Setup API client https://synthetic.new    <br/>
    ##api_key= ("SYNTHETIC_API_KEY"), <br/>
   client = openai.OpenAI(
