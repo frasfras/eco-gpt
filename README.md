@@ -34,13 +34,13 @@ Setup & Installation
    import os
    
    # --------------------------
-   Setup API client  https://synthetic.new    <br/>
+   Setup API client https://synthetic.new    <br/>
    ##api_key= ("SYNTHETIC_API_KEY"), <br/>
   client = openai.OpenAI(
      api_key="SYNTHETIC_API_KEY",
    <br/>
 3. ## setup ngrok
-    Set your ngrok auth token (ctoken from https://ngrok.com)
+    Set your ngrok auth token (get token from https://ngrok.com)
 
    NGROK_AUTH_TOKEN = "NGROK_AUTH_TOKEN"
    
