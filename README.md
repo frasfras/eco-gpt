@@ -31,9 +31,9 @@ Setup & Installation
    Or upload eco-gpt1-notebook to Google Collab
    
 2. ##  Environment variables
-   import os
    
    Setup API client https://synthetic.new    <br/>
+   use provided api key
    ##api_key= ("SYNTHETIC_API_KEY"), <br/>
   client = openai.OpenAI(
      api_key="SYNTHETIC_API_KEY",
