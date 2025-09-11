@@ -52,7 +52,7 @@ Setup & Installation
 
   Upload a CSV in examples download (example: sample_logs.csv): 
   eco-gpt/examples
--(Optional) Upload a scientific PDF with field notes or research. sample in examples folder
+- Upload a scientific PDF with field notes or research. sample in eco-gpt/examples folder
 
  Ask questions
 
@@ -64,6 +64,7 @@ CSV query:
 PDF query:
 “Summarize findings about insect diversity.”
 "What conditions favor jaguar sighting"
+“What happens to the jaguar population if logging is halted for the next five years?”
 
 🌍 Eco-GPT Answer:
 A jaguar was observed near stream #3 at 06:14:00 by cam_trap_01.
