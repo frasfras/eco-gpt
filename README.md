@@ -22,7 +22,7 @@ https://colab.research.google.com/github/frasfras/eco-gpt/blob/main/eco_gpt1_not
 )
 
 Setup & Installation
-1. Clone & install dependencies
+1. Clone 
 ## 📦 Requirements
    git clone https://github.com/frasfras/eco-gpt.git
    cd eco-gpt
@@ -48,7 +48,7 @@ Setup & Installation
    Click the printed URL below to access the app.
 ##
 5. ## Testing Instructions
-  Upload data
+  Upload data 
 
   Upload a CSV in examples download (example: sample_logs.csv): 
   eco-gpt/examples
