@@ -69,5 +69,5 @@ PDF query:
 🌍 Eco-GPT Answer:
 A jaguar was observed near stream #3 at 06:14:00 by cam_trap_01.
 
-Install dependencies if running locally:
+
 ```bash
