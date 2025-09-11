@@ -50,7 +50,7 @@ Setup & Installation
 5. ## Testing Instructions
   Upload data 
 
-  Upload a CSV in examples download (example: sample_logs.csv): 
+- Upload a CSV in examples download (example: sample_logs.csv): 
   eco-gpt/examples
 - Upload a scientific PDF with field notes or research. sample in eco-gpt/examples folder
 
